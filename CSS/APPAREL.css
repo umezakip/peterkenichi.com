@@ -278,6 +278,8 @@ img:hover {
 
 .social li {
   display: inline-block;
+	align: center
+
 }
 
 footer {
