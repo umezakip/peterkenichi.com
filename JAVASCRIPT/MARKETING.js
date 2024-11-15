@@ -9,3 +9,5 @@ function showImgContent(e) {
 };
 
 document.addEventListener('mousemove', showImgContent);
+
+$(document).ready(function(){$("img").click(function(){this.requestFullscreen()})});
