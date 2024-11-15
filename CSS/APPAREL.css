@@ -11,6 +11,11 @@
 	--dark-gray: #171717;
 }
 
+.column-xs-12 {
+  flex-basis: 100%;
+  max-width: 100%;
+}
+
 .container {
   margin: auto;
   padding: 0 1rem;
