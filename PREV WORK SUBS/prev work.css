@@ -227,3 +227,17 @@ header p {
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
+
+.social, .copyright {
+  margin: 1rem;
+}
+
+.social li {
+  display: inline-block;
+}
+
+footer {
+  padding: 1rem 0;
+  background: #f7f7f7;
+  text-align: center;
+}
