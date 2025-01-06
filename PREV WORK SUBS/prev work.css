@@ -213,6 +213,7 @@ header p {
   font-size: 35px;
   line-height: 2.3;
   padding: 0;
+	color: #171717;
 }
 .port > * {
   opacity: 0;
