@@ -1,3 +1,14 @@
+:root {
+  --white: #ffffff;
+  --black: #000000;
+  --dark-blue: #1f2029;
+  --dark-light: #424455;
+  --red: #da2c4d;
+  --yellow: #f8ab37;
+  --grey: #ecedf3;
+  --dark-gray: #171717;
+}
+
 .row {
   margin: 15px;
 }
