@@ -38,6 +38,22 @@ p {
   transition: all 300ms linear;
 }
 
+ul li {
+  margin: 0 1.5rem 0 0;
+}
+
+a {
+  color: #787878;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+a:hover {
+  color: #2e2e2e;
+}
+a.active {
+  color: #2e2e2e;
+}
+
 header {
   background-color: #ffffff;
   color: #171717;
