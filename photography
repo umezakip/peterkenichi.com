@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Peter Kenichi - Photography</title>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css'>
+<link rel='stylesheet' href='https://use.fontawesome.com/releases/v5.0.12/css/all.css'><link
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css'><link rel="stylesheet" href="CSS/CP2.css">
+	<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+<header>
+    <h1>Photography <br> <span>[ Film/DSLR ]</span></h1>
+</header>
+
+<!-- partial:index.partial.html -->
+<div class="container">
+  <div class="row">
+    <a href="ORIGINALS/MARKED IMAGES/MARC JACOBS WP.png" data-toggle="lightbox" data-gallery="gallery" class="col-md-4">
+      <img src="ORIGINALS/600X600/CP2 600x600_1.png" class="img-fluid rounded">
+    </a>
+    <a href="ORIGINALS/MARKED IMAGES/ROLEX WP.png" data-toggle="lightbox" data-gallery="gallery" class="col-md-4">
+      <img src="ORIGINALS/600X600/CP2 600x600_2.png" class="img-fluid rounded">
+    </a>
+    <a href="ORIGINALS/MARKED IMAGES/GUARANA WP.png" data-toggle="lightbox" data-gallery="gallery" class="col-md-4">
+      <img src="ORIGINALS/600X600/CP2 600x600_3.png" class="img-fluid rounded">
+    </a>
+  </div>
+  <div class="row">
+    <a href="ORIGINALS/MARKED IMAGES/SHACARRI RICHARDSON.png" data-toggle="lightbox" data-gallery="gallery" class="col-md-4">
+      <img src="ORIGINALS/600X600/CP2 600x600_4.png" class="img-fluid rounded">
+    </a>
+    <a href="ORIGINALS/MARKED IMAGES/JA MORANT WP.png" data-toggle="lightbox" data-gallery="gallery" class="col-md-4">
+      <img src="ORIGINALS/600X600/CP2 600x600_8.png" class="img-fluid rounded">
+    </a>
+    <a href="ORIGINALS/MARKED IMAGES/JALEN BRUNSON.png" data-toggle="lightbox" data-gallery="gallery" class="col-md-4">
+      <img src="ORIGINALS/600X600/CP2 600x600_9.png" class="img-fluid rounded">
+    </a>
+  </div>
+  <div class="row">
+    <a href="ORIGINALS/MARKED IMAGES/INVINCIBLE X APPLE WP.png" data-toggle="lightbox" data-gallery="gallery" class="col-md-4">
+      <img src="ORIGINALS/600X600/CP2 600x600_5.png" class="img-fluid rounded">
+    </a>
+    <a href="ORIGINALS/MARKED IMAGES/SPIDERMAN WP.png" data-toggle="lightbox" data-gallery="gallery" class="col-md-4">
+      <img src="ORIGINALS/600X600/CP2 600x600_7.png" class="img-fluid rounded">
+    </a>
+    <a href="ORIGINALS/MARKED IMAGES/NINTENDO WP.png" data-toggle="lightbox" data-gallery="gallery" class="col-md-4">
+      <img src="ORIGINALS/600X600/CP2 600x600_10.png" class="img-fluid rounded">
+    </a>
+  </div>
+  <div class="row">
+    <a href="ORIGINALS/MARKED IMAGES/SANTI BLUE WP.png" data-toggle="lightbox" data-gallery="gallery" class="col-md-4">
+      <img src="ORIGINALS/600X600/CP2 600x600_11.png" class="img-fluid rounded">
+    </a>
+    <a href="ORIGINALS/MARKED IMAGES/FERRARI WP.png" data-toggle="lightbox" data-gallery="gallery" class="col-md-4">
+      <img src="ORIGINALS/600X600/CP2 600x600_6.png" class="img-fluid rounded">
+    </a>
+    <a href="ORIGINALS/MARKED IMAGES/SANTI POSTER RED WP.png" data-toggle="lightbox" data-gallery="gallery" class="col-md-4">
+      <img src="ORIGINALS/600X600/CP2 600x600_12.png" class="img-fluid rounded">
+    </a>
+  </div>
+  <div class="row">
+    <a href="ORIGINALS/MARKED IMAGES/ORANGE WP.png" data-toggle="lightbox" data-gallery="gallery" class="col-md-4">
+      <img src="ORIGINALS/600X600/CP2 600x600_13.png" class="img-fluid rounded">
+    </a>
+    <a href="ORIGINALS/MARKED IMAGES/UNTITLED ARTWORK WP.png" data-toggle="lightbox" data-gallery="gallery" class="col-md-4">
+      <img src="ORIGINALS/600X600/CP2 600x600_14.png" class="img-fluid rounded">
+    </a>
+    <a href="ORIGINALS/MARKED IMAGES/SANTI BILLBOARD WP.png" data-toggle="lightbox" data-gallery="gallery" class="col-md-4">
+      <img src="ORIGINALS/600X600/CP2 600x600_15.png" class="img-fluid rounded">
+    </a>
+  </div>
+</div>
+
+	<!-- Link to page
+	================================================== -->
+
+	<a href="https://umezakip.github.io/peterkenichi.com/" class="link-to-page hover-target" target="_self"><img src="ORIGINALS/LOGOS/LOGO1.png" class="day-logo">
+		<img src="ORIGINALS\LOGOS\LOGO2-01.png" class="night-logo" style="display: none;"></a>
+  
+<!-- partial -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js'></script><script  src="JAVASCRIPT/CP2.js"></script>
+
+<footer>
+  <div class="container">
+    <div class="grid">
+      <div class="column-xs-12">
+        <ul class="social">
+          <li><a href="https://twitter.com/rtistworld" target="_blank" rel="noopener noreferrer"><span class="fab fa-twitter"></span></a></li>
+          <li><a href="https://linkedin.com/in/peter-umezaki-504bb5192/" target="_blank" rel="noopener noreferrer"><span class="fab fa-linkedin"></span></a></li>
+          <li><a href="https://github.com/umezakip" target="_blank" rel="noopener noreferrer"><span class="fab fa-github"></span></a></li>
+        </ul>
+        <p class="copyright">&copy; Copyright 2024 Kenichi Umezaki</p>
+      </div>
+    </div>
+  </div>
+</footer>
+	
+</body>
+</html>
