@@ -361,6 +361,9 @@ a {
   display: inline-block;
 }
 
+.a {
+	color: #787878; }
+
 footer {
   padding: 1rem 0;
   background: #f7f7f7;
