@@ -32,7 +32,7 @@ header {
   background-color: #EAEAEA;
   color: #171717;
   text-align: center;
-  padding: 30px 0 30px;
+  padding: 20px 0 20px;
 }
 header h1 {
   text-align: center;
@@ -41,7 +41,7 @@ header h1 {
   font-weight: 400;
   letter-spacing: 3px;
   line-height: 0.8;
-  padding-top: 50px;
+  padding-top: 30px;
   font-family: "Poppins", sans-serif;
 }
 header h1 span {
