@@ -247,9 +247,11 @@ a {
 .about-social {
   margin-top: 20px;
   margin-bottom: 20px; }
-  .about-social li {
+  
+.about-social li {
     padding-right: 20px; }
-  .about-social .fab, .about-social .far {
+  
+.about-social .fab, .about-social .far {
     width: 40px;
     height: 40px;
     line-height: 40px;
@@ -262,9 +264,13 @@ a {
     -o-transition: color 0.3s ease;
     transition: color 0.3s ease;
     cursor: pointer; }
-    .about-social .fab:hover, .about-social .far:hover {
+    
+.about-social .fab:hover, .about-social .far:hover {
       color: #E52E2D; }
 
+.about-resume {
+  margin-left: 20px; }
+  
 .skill-progress-container p {
   color: #454545; }
 
