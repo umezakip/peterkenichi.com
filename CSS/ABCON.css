@@ -175,7 +175,14 @@ a {
   background-size: cover;
   background-attachment: fixed;
   height: 100%;
-  position: center; }
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+
+}
 
 #particles-js {
   width: 100%;
@@ -188,15 +195,18 @@ a {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%); }
-  .hero-content h1 {
+
+.hero-content h1 {
     font-size: 50px;
-    color: #fff;
+    color: #171717;
     margin-top: 30px;
     margin-bottom: 10px; }
-  .hero-content h2 {
+
+.hero-content h2 {
     font-size: 30px;
     color: #bfbfbf; }
-  .hero-content .download {
+
+.hero-content .download {
     color: #bfbfbf;
     background: none;
     border: 1px #E52E2D solid;
@@ -205,24 +215,40 @@ a {
     -webkit-transition: border-color 0.3s ease;
     -o-transition: border-color 0.3s ease;
     transition: border-color 0.3s ease;
-    cursor: pointer; }
-    .hero-content .download a {
+    cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  }
+
+.hero-content .download a {
       color: #bfbfbf;
       font-size: 16px; }
-    .hero-content .download:hover {
+
+.hero-content .download:hover {
       border-color: #bfbfbf; }
 
 .hero-content img {
   width: 300px;
   height: 300px;
   border-radius: 50%;
-  border: 3px #E52E2D solid; }
+  border: 3px #E52E2D solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  }
   @media screen and (max-width: 768px) {
 
 .hero-content img {
       width: 200px;
       height: 200px;
-	align: center; } }
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+   } 
 
 /***********************************ABOUT STYLES***********************************/
 .about-text {
