@@ -230,7 +230,7 @@ a {
 
 /***********************************ABOUT STYLES***********************************/
 .about-text {
-  opacity: 0;
+  opacity: 1;
   -webkit-transform: translateX(25px);
   -ms-transform: translateX(25px);
   transform: translateX(25px);
