@@ -189,15 +189,18 @@ a {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%); }
-  .hero-content h1 {
+  
+.hero-content h1 {
     font-size: 50px;
-    color: #fff;
+    color: #000000;
     margin-top: 30px;
     margin-bottom: 10px; }
-  .hero-content h2 {
+  
+.hero-content h2 {
     font-size: 30px;
     color: #bfbfbf; }
-  .hero-content .download {
+  
+.hero-content .download {
     color: #bfbfbf;
     background: none;
     border: 1px #E52E2D solid;
@@ -207,10 +210,12 @@ a {
     -o-transition: border-color 0.3s ease;
     transition: border-color 0.3s ease;
     cursor: pointer; }
-    .hero-content .download a {
+    
+.hero-content .download a {
       color: #bfbfbf;
       font-size: 16px; }
-    .hero-content .download:hover {
+    
+.hero-content .download:hover {
       border-color: #bfbfbf; }
 
 .hero-content img {
