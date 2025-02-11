@@ -199,7 +199,7 @@ a {
 
 /***********************************HERO STYLES***********************************/
 #hero {
-  background: url("http://www.bricho.com/demo/brian/with-particles/img/hero8.jpg") no-repeat center center;
+  background: "ORIGINALS/download.png") no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
   height: 100%;
