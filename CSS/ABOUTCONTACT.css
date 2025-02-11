@@ -35,16 +35,16 @@ body {
 
 .accent-text {
   font-family: "Dancing Script", cursive;
-  color: #002CA0; }
+  color: #0083ff; }
 
 .active {
-  color: #002CA0; }
+  color: #0083ff; }
 
 .is-checked {
-  color: #002CA0; }
+  color: #0083ff; }
 
 h1 {
-  color: #000000; }
+  color: #0083ff; }
   
 h2 {
   margin-bottom: 20px; }
@@ -109,8 +109,8 @@ a {
 .loader1 {
   width: 100px;
   height: 100px;
-  border-top: 5px solid #002CA0;
-  border-bottom: 5px solid #002CA0;
+  border-top: 5px solid #0083ff;
+  border-bottom: 5px solid #0083ff;
   -webkit-animation: clockwisespin 2s linear infinite;
   animation: clockwisespin 2s linear infinite; }
 
@@ -192,7 +192,7 @@ a {
   
 .hero-content h1 {
     font-size: 50px;
-    color: #002CA0;
+    color: #0083ff;
     margin-top: 30px;
     margin-bottom: 10px; }
   
@@ -203,7 +203,7 @@ a {
 .hero-content .download {
     color: #bfbfbf;
     background: none;
-    border: 1px #002CA0 solid;
+    border: 1px #0083ff solid;
     border-radius: 1000px;
     padding: 10px;
     -webkit-transition: border-color 0.3s ease;
@@ -222,7 +222,7 @@ a {
   width: 300px;
   height: 300px;
   border-radius: 50%;
-  border: 3px #002CA0 solid; }
+  border: 3px #0083ff solid; }
   @media screen and (max-width: 768px) {
     .hero-content img {
       width: 200px;
@@ -266,7 +266,7 @@ a {
     cursor: pointer; }
     
 .about-social .fab:hover, .about-social .far:hover {
-      color: #002CA0; }
+      color: #0083ff; }
 
 .about-resume {
   margin-left: 70px; }
@@ -295,7 +295,7 @@ a {
 .inner-percent {
   height: inherit;
   width: 0;
-  background: #002CA0;
+  background: #0083ff;
   -webkit-transition: all .3s linear;
   -o-transition: all .3s linear;
   transition: all .3s linear; }
