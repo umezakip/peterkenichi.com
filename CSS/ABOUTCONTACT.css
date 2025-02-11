@@ -164,7 +164,7 @@ a {
 
 @keyframes fadeout {
   from {
-    opactity: 1; }
+    opacity: 1; }
   to {
     opacity: 0; } }
 
