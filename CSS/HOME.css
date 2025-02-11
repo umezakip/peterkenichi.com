@@ -10,6 +10,7 @@
 	--yellow: #f8ab37;
 	--grey: #ecedf3;
 	--dark-gray: #171717;
+	--blue: #0083ff;
 }
 
 /* #Primary
@@ -37,7 +38,7 @@ p{
 }
 ::selection {
 	color: var(--white);
-	background-color: var(--black);
+	background-color: var(--blue);
 }
 ::-moz-selection {
 	color: var(--white);
