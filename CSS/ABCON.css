@@ -21,7 +21,9 @@ img {
 /***********************************UNIVERSAL STYLES***********************************/
 body {
   font-family: "Poppins", sans-serif;
-  color: #454545; }
+  color: #454545;
+  align: center	
+}
 
 @media screen and (max-width: 760px) {
   .container {
