@@ -218,9 +218,11 @@ a {
   border-radius: 50%;
   border: 3px #E52E2D solid; }
   @media screen and (max-width: 768px) {
-    .hero-content img {
+
+.hero-content img {
       width: 200px;
-      height: 200px; } }
+      height: 200px;
+	align: center; } }
 
 /***********************************ABOUT STYLES***********************************/
 .about-text {
