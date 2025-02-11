@@ -415,9 +415,9 @@ body.light .slide-buttons li a{
 body.light .slide-buttons li a::before {
 	-webkit-text-stroke: transparent;
     text-stroke: transparent;
-    -webkit-text-fill-color: var(--blue);
-    text-fill-color: var(--blue);
-	color: var(--blue);
+    -webkit-text-fill-color: var(--black);
+    text-fill-color: var(--black);
+	color: var(--black);
 }
 body.light .hero-center-section.show{
 	margit-top: 0;
