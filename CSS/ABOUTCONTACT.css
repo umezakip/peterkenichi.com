@@ -271,7 +271,7 @@ a {
 .about-text p {
 	width: 80%;
 	margin: 0 auto;
-	padding: 0 10px; }
+	padding-right: 10px; }
 
 
 .about-text-animate {
