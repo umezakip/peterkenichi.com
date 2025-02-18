@@ -360,11 +360,11 @@ a {
 	display: block;
 }
 
-.social, .copyright {
+.footer-social, .footer-copyright {
   margin: 1rem;
 }
 
-.social li {
+.footer-social li {
   display: inline-block;
 }
 
