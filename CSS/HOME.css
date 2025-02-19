@@ -488,6 +488,7 @@ body.light .hero-center-section .left-text{
 	}	
 }
 
+@media (max-width: 768px) {
   .link-to-page {
     position: absolute;
     top: 50%;
@@ -502,4 +503,5 @@ body.light .hero-center-section .left-text{
     width: 100%;
     height: auto;
   }
+}
 
