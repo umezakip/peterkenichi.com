@@ -488,19 +488,17 @@ body.light .hero-center-section .left-text{
 	}	
 }
 
+/* For mobile screens (max-width: 768px) */
 @media (max-width: 768px) {
   .link-to-page {
-    position: absolute;
-    top: 20px;
-    right: 2rem;
-    width: 30%; /* Increase width to make the icon more accessible */
-    max-width: 150px; /* Limit width for smaller screens */
+    top: 20px; /* Adjust the distance from the top */
+    right: 10px; /* Adjust the distance from the right */
+    width: 30%; /* Increase the width for better visibility */
+    max-width: 100px; /* Limit the size */
   }
 
-  /* Optional: Adjusting images */
   .link-to-page img {
     width: 100%;
     height: auto;
   }
 }
-
