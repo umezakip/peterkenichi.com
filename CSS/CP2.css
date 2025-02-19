@@ -220,6 +220,10 @@ footer {
     font-size: 0.875rem; /* Make font smaller */
   }
 
+  header {
+    text-align: left;
+  }
+	
   header h1 {
     font-size: 2rem; /* Reduce font size for header */
   }
