@@ -331,14 +331,17 @@ footer {
 
   header {
     text-align: left;
-    padding-bottom: 1rem;
+    padding: 1rem 2rem;
+    position: relative;
   }
 	
   header h1 {
     font-size: 2rem; /* Reduce font size for header */
     text-align: left;
-    
-    padding-left: 2rem;
+    margin: 0;
+    padding: 0;
+    display: inline block;
+    vertical-align: middle;
   }
 
   .row {
@@ -351,8 +354,9 @@ footer {
 	
   .link-to-page {
     position: absolute;
-    top: 1;
-    right: 1;
+    top: 50%;
+    right: 2rem;
+    transform: translateY(-50%);
     width: 30%; /* Increase width to make the icon more accessible */
     max-width: 150px; /* Limit width for smaller screens */
   }
