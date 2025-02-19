@@ -230,9 +230,9 @@ footer {
 
   .link-to-page {
     position: absolute;
-    top: 0;
-    right: 0;
-    width: 40%; /* Increase width to make the icon more accessible */
+    top: 1;
+    right: 1;
+    width: 30%; /* Increase width to make the icon more accessible */
     max-width: 150px; /* Limit width for smaller screens */
   }
 
