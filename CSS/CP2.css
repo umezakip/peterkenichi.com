@@ -234,7 +234,6 @@ footer {
 	
   .row img {
     margin: 0.5rem; /* Adds space between images inside each row */
-    height: auto;
   }
 	
   .link-to-page {
