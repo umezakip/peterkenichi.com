@@ -245,17 +245,4 @@ footer {
   }
 }
 
-@media (max-width: 768px) {
-  .logo {
-    position: absolute;   /* Take the logo out of the document flow */
-    top: 10px;            /* Position it slightly from the top of the page */
-    left: 10px;           /* Position it slightly from the left side (or use 'right' if you want it on the right) */
-    z-index: 9999;        /* Ensure it appears above the header */
-    width: 40%;           /* Adjust size of the logo if necessary */
-    max-width: 100px;     /* Limit max width for mobile */
-  }
 
-  header {
-    padding-top: 50px;    /* Add some padding to the header to ensure it doesn't get covered */
-  }
-}
