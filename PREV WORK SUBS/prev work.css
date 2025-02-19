@@ -399,8 +399,7 @@ footer {
     vertical-align: middle;
   }
 
-	@media (max-width: 768px) {
-     .gallery ul {
+.gallery ul {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -418,7 +417,6 @@ footer {
     justify-content: center;
     align-items: center;
   }
-}
 		
     .gallery .row {
         display: block; /* Stack the items vertically */
@@ -439,7 +437,6 @@ footer {
         height: auto; /* Maintain the aspect ratio */
 	align-item: center;
     }
-}
 	
   .row {
     margin: 0rem; /* Adjust margin for smaller screens */
