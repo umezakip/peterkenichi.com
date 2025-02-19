@@ -491,8 +491,8 @@ body.light .hero-center-section .left-text{
 /* For mobile screens (max-width: 768px) */
 @media (max-width: 768px) {
   .link-to-page {
-    top: 20px; /* Adjust the distance from the top */
-    right: 10px; /* Adjust the distance from the right */
+    top: 2rem; /* Adjust the distance from the top */
+    right: 2rem; /* Adjust the distance from the right */
     width: 30%; /* Increase the width for better visibility */
     max-width: 100px; /* Limit the size */
   }
