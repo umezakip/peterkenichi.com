@@ -399,6 +399,21 @@ footer {
     vertical-align: middle;
   }
 
+    .container {
+        flex-direction: column; /* Stack elements vertically */
+        align-items: center;
+    }
+
+    .element {
+        width: 100%;  /* Ensure each element takes full width on mobile */
+        margin-bottom: 10px;  /* Add spacing between elements */
+    }
+
+    /* Additional adjustments for mobile, e.g., text size */
+    .text {
+        font-size: 1.2em;  /* Adjust text size for smaller screens */
+    }
+	
   .row {
     margin: 0rem; /* Adjust margin for smaller screens */
   }
