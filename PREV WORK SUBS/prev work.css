@@ -378,3 +378,22 @@ footer {
   font-weight: 900;
   font-style: italic;
 }
+
+@media (max-width: 768px) {
+  .gallery .row ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .gallery .row ul li {
+    width: 100%; /* Make each item take full width */
+    margin-bottom: 15px; /* Add space between images */
+  }
+
+  .gallery .row ul li img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+}
