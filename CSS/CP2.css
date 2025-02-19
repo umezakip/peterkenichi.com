@@ -230,7 +230,7 @@ footer {
   }
 
   .row {
-    margin: 1rem; /* Adjust margin for smaller screens */
+    margin: 0.5rem; /* Adjust margin for smaller screens */
   }
 	
   .row img {
