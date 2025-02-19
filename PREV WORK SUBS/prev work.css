@@ -406,7 +406,7 @@ footer {
 
     .gallery .row ul li {
         width: 100%;  /* Make each image take the full width on mobile */
-        padding: 10px 0; /* Adjust spacing between images */
+        padding: 0 0; /* Adjust spacing between images */
     }
 
     .gallery .row ul li a {
@@ -415,7 +415,7 @@ footer {
     }
 
     .gallery .row ul li img {
-        width: 100%; /* Make sure images scale properly */
+        width: 80%; /* Make sure images scale properly */
         height: auto; /* Maintain the aspect ratio */
     }
 }
