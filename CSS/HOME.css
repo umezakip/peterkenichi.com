@@ -491,9 +491,8 @@ body.light .hero-center-section .left-text{
 @media (max-width: 768px) {
   .link-to-page {
     position: absolute;
-    top: 50%;
+    top: 20px;
     right: 2rem;
-    transform: translateY(-50%);
     width: 30%; /* Increase width to make the icon more accessible */
     max-width: 150px; /* Limit width for smaller screens */
   }
