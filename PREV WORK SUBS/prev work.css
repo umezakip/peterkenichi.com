@@ -400,6 +400,26 @@ footer {
   }
 
 	@media (max-width: 768px) {
+     .gallery ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .gallery ul li {
+    width: 100%; /* Make the images take full width */
+    max-width: 400px; /* Adjust max-width as needed */
+    margin: 10px 0; /* Add some spacing between images */
+    float: none; /* Remove float */
+  }
+
+  .gallery ul li a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+		
     .gallery .row {
         display: block; /* Stack the items vertically */
     }
