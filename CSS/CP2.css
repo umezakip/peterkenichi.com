@@ -80,7 +80,7 @@ header p {
 }
 
 .link-to-page {
-	position: fixed;
+    position: absolute;
     top: 30px;
     right: 30px;
     z-index: 20000;
