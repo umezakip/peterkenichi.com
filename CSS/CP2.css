@@ -337,7 +337,7 @@ footer {
   header h1 {
     font-size: 2rem; /* Reduce font size for header */
     text-align: left;
-    top: 1.5rem;
+    
     padding-left: 2rem;
   }
 
