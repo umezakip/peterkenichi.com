@@ -226,6 +226,7 @@ footer {
 	
   header h1 {
     font-size: 2rem; /* Reduce font size for header */
+    align-item: left;
   }
 
   .row {
@@ -233,7 +234,7 @@ footer {
   }
 	
   .row img {
-    margin: 0.5rem; /* Adds space between images inside each row */
+    margin-bottom: 1rem; /* Adds space between images inside each row */
   }
 	
   .link-to-page {
