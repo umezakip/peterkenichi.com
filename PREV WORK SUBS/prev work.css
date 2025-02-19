@@ -435,7 +435,7 @@ footer {
     }
 
     .gallery .row ul li img {
-        width: 80%; /* Make sure images scale properly */
+        width: 100%; /* Make sure images scale properly */
         height: auto; /* Maintain the aspect ratio */
 	align-item: center;
     }
