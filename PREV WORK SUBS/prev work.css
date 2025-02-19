@@ -408,8 +408,8 @@ footer {
 
   .gallery ul li {
     width: 100%; /* Make the images take full width */
-    max-width: 400px; /* Adjust max-width as needed */
-    margin: 10px 0; /* Add some spacing between images */
+    max-width: 80%; /* Adjust max-width as needed */
+    margin: 0px 0; /* Add some spacing between images */
     float: none; /* Remove float */
   }
 
