@@ -380,7 +380,11 @@ footer {
 }
 
 @media (max-width: 768px) {
-  .gallery .row ul {
+.gallery {
+    padding: 0 2rem;
+}
+	
+.gallery .row ul {
     display: flex;
     flex-direction: column;
     align-items: center;
