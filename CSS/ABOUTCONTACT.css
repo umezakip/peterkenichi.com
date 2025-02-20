@@ -346,6 +346,7 @@ a {
     z-index: 20000;
     cursor: pointer;
     width: 15%;
+    transform: translateY(-50%);
 }
 .link-to-page img{
 	width: 100%;
@@ -508,9 +509,9 @@ footer {
   /* Consolidated .link-to-page rules */
   .link-to-page {
     position: absolute; /* Remove !important */
-    top: 30px;         /* Remove !important - adjust as needed */
-    right: 30px;       /* Remove !important - adjust as needed */
-    width: 15%;        /* Remove !important */
+    top: 50%;         /* Remove !important - adjust as needed */
+    right: 2rem;       /* Remove !important - adjust as needed */
+    width: 30%;        /* Remove !important */
     max-width: 150px;   /* Add max-width for responsiveness */
   }
 
