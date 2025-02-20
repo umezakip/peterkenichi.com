@@ -478,13 +478,15 @@ footer {
 @media screen and (max-width: 768px) {
   .container {
     padding-right: 25px;
-    padding-left: 25px; }
-    
-.hero-content img {
-      width: 200px;
-      height: 200px; } 
-  
-body {
+    padding-left: 25px;
+  }
+
+  .hero-content img {
+    width: 200px;
+    height: 200px;
+  }
+
+  body {
     font-size: 0.875rem; /* Make font smaller */
   }
 
@@ -493,7 +495,7 @@ body {
     padding: 1rem 2rem;
     position: relative;
   }
-	
+
   header h1 {
     font-size: 2rem; /* Reduce font size for header */
     text-align: left;
@@ -503,19 +505,13 @@ body {
     vertical-align: middle;
   }
 
-	.link-to-page {
-  position: absolute !important;
-  top: 30px !important;
-  right: 30px !important;
-  width: 15% !important;
-}
+  /* Consolidated .link-to-page rules */
   .link-to-page {
-    position: absolute;
-    top: 50%;
-    right: 2rem;
-    transform: translateY(-50%);
-    width: 30%; /* Increase width to make the icon more accessible */
-    max-width: 150px; /* Limit width for smaller screens */
+    position: absolute; /* Remove !important */
+    top: 30px;         /* Remove !important - adjust as needed */
+    right: 30px;       /* Remove !important - adjust as needed */
+    width: 15%;        /* Remove !important */
+    max-width: 150px;   /* Add max-width for responsiveness */
   }
 
   /* Optional: Adjusting images */
