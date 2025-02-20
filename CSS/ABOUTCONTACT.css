@@ -37,12 +37,12 @@ header {
 header h1 {
   text-align: center;
   text-transform: uppercase;
-  font-size: 65px;
+  font-size: 4.0625rem;
   font-weight: 400;
-  letter-spacing: 3px;
+  letter-spacing: 0.1875rem;
   line-height: 0.8;
-  padding-top: 15px;
-  font-family: "Kanit", sans-serif;
+  padding-top: 1rem;
+  font-family: "kanit", sans-serif;
 }
 header h1 span {
   text-transform: uppercase;
@@ -51,7 +51,7 @@ header h1 span {
   line-height: 1;
 }
 header p {
-  padding-top: 30px;
+  padding-top: 2rem;
 }
 
 
@@ -253,7 +253,8 @@ a {
   height: 300px;
   border-radius: 50%;
   border: 3px #000000 solid; }
-  @media screen and (max-width: 768px) {
+  
+@media screen and (max-width: 768px) {
     .hero-content img {
       width: 200px;
       height: 200px; } 
@@ -387,7 +388,7 @@ a {
   width: 79%; }
 
 .link-to-page {
-	position: fixed;
+    position: absolute;
     top: 30px;
     right: 30px;
     z-index: 20000;
