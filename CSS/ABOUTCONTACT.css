@@ -502,7 +502,13 @@ body {
     display: inline block;
     vertical-align: middle;
   }
-	
+
+	.link-to-page {
+  position: absolute !important;
+  top: 30px !important;
+  right: 30px !important;
+  width: 15% !important;
+}
   .link-to-page {
     position: absolute;
     top: 50%;
