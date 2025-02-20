@@ -291,6 +291,7 @@ body {
   .link-to-page img {
     width: 100%;
     height: auto;
+    display: block;
   }
 
   /* Optional: Adjusting text in header */
