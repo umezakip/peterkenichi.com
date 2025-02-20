@@ -430,5 +430,21 @@ header {
     width: 100%;
     height: auto;
   }
+  .port .row {
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center align content */
+    text-align: center; /* Center text */
+  }
 
+  .port .row .description {
+    order: -1; /* Ensure text appears above the image */
+    width: 90%; /* Prevent it from stretching edge-to-edge */
+    margin-bottom: 15px; /* Adds spacing between text and image */
+  }
+
+  .port .row img {
+    width: 100%; /* Make the image responsive */
+    height: auto;
+  }
 }
