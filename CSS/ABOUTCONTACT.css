@@ -42,7 +42,7 @@ header h1 {
   letter-spacing: 3px;
   line-height: 0.8;
   padding-top: 15px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Kanit", sans-serif;
 }
 header h1 span {
   text-transform: uppercase;
@@ -480,4 +480,45 @@ footer {
   font-family: "Poppins", sans-serif;
   font-weight: 900;
   font-style: italic;
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 0.875rem; /* Make font smaller */
+  }
+
+  header {
+    text-align: left;
+    padding: 1rem 2rem;
+    position: relative;
+  }
+	
+  header h1 {
+    font-size: 2rem; /* Reduce font size for header */
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    display: inline block;
+    vertical-align: middle;
+  }
+	
+  .link-to-page {
+    position: absolute;
+    top: 50%;
+    right: 2rem;
+    transform: translateY(-50%);
+    width: 30%; /* Increase width to make the icon more accessible */
+    max-width: 150px; /* Limit width for smaller screens */
+  }
+
+  /* Optional: Adjusting images */
+  .link-to-page img {
+    width: 100%;
+    height: auto;
+  }
+
+  /* Optional: Adjusting text in header */
+  header p {
+    padding-top: 1rem; /* Reduce padding */
+  }
 }
