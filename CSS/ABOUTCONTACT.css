@@ -346,8 +346,8 @@ a {
     z-index: 20000;
     cursor: pointer;
     width: 15%;
-    transform: translateY(-50%);
 }
+
 .link-to-page img{
 	width: 100%;
 	height: auto;
